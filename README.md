@@ -4,6 +4,9 @@
 # Coffee Vs. Tea 
  This is a simple one page site that debates which is better between coffee and tea 
 
+## Getting started
+ Clone this to the location of your choice and open the HTML file in a web browser like chrome 
+
 ## Prerequisites
  Any web browser like Chrome, or safari
 
